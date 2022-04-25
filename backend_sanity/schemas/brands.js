@@ -1,11 +1,11 @@
 export default {
-  name: "bands",
-  title: "Bands",
+  name: "brands",
+  title: "Brands",
   type: "document",
   fields: [
     {
-      name: "imageurl",
-      title: "ImgURL",
+      name: "imgUrl",
+      title: "ImgUrl",
       type: "image",
       options: {
         hotspot: true,
